@@ -1,7 +1,7 @@
 # Urban Sound Classification
 
 ## Introdução
-Este projeto visa a classificação de sons urbanos utilizando classificadores baseados em deep learning. O código está implementado em um notebook Jupyter denominado `UrbanSoundClassification.ipynb`.
+Este projeto visa a classificação de sons urbanos utilizando classificadores baseados em deep learning. O código está implementado num notebook Jupyter denominado `UrbanSoundClassification.ipynb`.
 
 ## Executar o Código
 Para executar o código, siga as instruções abaixo:
