@@ -29,4 +29,4 @@ Certifique-se de ter as seguintes bibliotecas instaladas antes de executar o có
 Podem ser instaladas utilizando o seguinte comando no terminal Anaconda:
 
 ```bash
-conda install pandas numpy os librosa glob2 scikit-image seaborn matplotlib ipython scikit-learn keras```
+conda install pandas numpy os librosa glob2 scikit-image seaborn matplotlib ipython scikit-learn keras
