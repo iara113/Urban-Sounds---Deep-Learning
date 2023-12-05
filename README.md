@@ -1,6 +1,3 @@
-
-Aqui está uma versão aprimorada do seu README para o projeto de Urban Sound Classification:
-
 Urban Sound Classification
 Introdução
 Este projeto visa a classificação de sons urbanos utilizando aprendizado de máquina. O código está implementado em um notebook Jupyter denominado UrbanSoundClassification.ipynb.
