@@ -23,10 +23,10 @@ matplotlib
 IPython
 scikit-learn
 keras
+
 Você pode instalar essas bibliotecas usando o seguinte comando no terminal Anaconda:
 
-bash
-Copy code
-conda install pandas numpy os librosa glob2 scikit-image seaborn matplotlib ipython scikit-learn keras
+
+```conda install pandas numpy os librosa glob2 scikit-image seaborn matplotlib ipython scikit-learn keras```
 Observações
 Certifique-se de ajustar o ambiente de execução conforme necessário. Além disso, consulte os comentários no código para entender melhor cada seção e personalizar conforme a necessidade do seu ambiente.
